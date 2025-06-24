@@ -1,4 +1,4 @@
-# Chemi-Craft
+# 3D Kémia Laboratórium
 
 Welcome to **Chemi-Craft**! This is a 3D educational game built in Unity that allows players to explore chemical equations interactively. The game features 17 chemical elements, and players can learn and test their knowledge by solving chemical equations through engaging gameplay.
 
